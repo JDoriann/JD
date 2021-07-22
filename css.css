@@ -1,0 +1,51 @@
+form#first input[type="text"] {
+    width: 301px;
+    border: 1px solid black;
+}
+form#first textarea {
+    width: 298px;
+    height: 88px;
+}
+input[type="button"] {
+    width: 304px;
+}
+.BIG {
+    position: absolute;
+    width: 300px;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+.name {
+    font-size: 11px;
+    border-bottom: 1px solid #e4eaf0;
+    padding: 5px;
+    margin: 5px;
+    width: 96%;
+    font-family: cursive;
+    color: #0030a0;
+}
+.mess {
+    font-size: 11px;
+}
+.red{
+	color: red;
+}
+.time {
+    float: right;
+    font-size: 8px;
+}
+#content {
+    height: 300px;
+    overflow: auto;
+    border: 1px solid #a7a8a8;
+    margin-bottom: 30px;
+    padding: 5px;
+}
+h2{
+	text-align: center;
+	font-family: cursive;
+	font-size: 15px;
+	font-weight: 100;
+
+}
